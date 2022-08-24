@@ -29,34 +29,34 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94779819367'] // owner number
+global.ownername = "😎𝗔𝗥𝗢𝗦𝗛𝗔 𝗚𝗜𝗠𝗛𝗔𝗡❯❯" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.socialm = "GitHub: red503388@gmail.com" // github or insta name
+global.location = "srilanka,Hambanthota,lunugamvehera" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/Qj14Pk9/848441d5061b806299f69bd7bc2f1903-085339.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['94779819367']
+global.ownertag = '94779819367' //your tag number
+global.botname = '𝗔𝗥𝗢𝗦𝗛𝗔 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "𝕄ℝ╺ 𝔸ℝ𝕆𝕊ℍ𝔸" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ 𝚖𝚛-𝚊𝚛𝚘𝚜𝚑𝚊-ʙᴏᴛ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['94779819367'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -65,21 +65,21 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
+    admin: 'එය භාවිතා කළ හැක්කේ පරිපාලකයින්ට පමණි!😉',
     botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    linkm: 'Where is the link?',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban',
+    owner: 'මෙය භාවිතා කළ හැක්කේ හිමිකරුට පමණි!😉',
+    group: 'විශේෂාංගය සමූහය සඳහා පමණක් භාවිතා වේ!',
+    private: 'මෙම විශේෂාංගය Private සඳහා පමණි!',
+    bot: 'මෙම විශේෂාංගය Bot සඳහා පමණි!😝',
+    wait: '👉👈කරුණාකර රැඳී සිටින්න...',
+    error: 'දෝෂයක්!!! සමහර විට Api Key කල් ඉකුත් වී ඇත🤔!',
+    endLimit: 'ඔබගේ දෛනික සීමාව කල් ඉකුත් වී ඇත, සීමාව සෑම පැය 12 කට වරක් නැවත සකසනු ලැබේ',
+    linkm: 'කෝ ලින්ක් එක?',
+    nsfw: 'nsfw විශේෂාංගය සක්‍රිය කර නැත, කරුණාකර සක්‍රිය කිරීමට පරිපාලක අමතන්න',
+    banChat: 'මෙම සමූහයේ බොට් තහනම් කර ඇත, කරුණාකර තහනම් නොකිරීමට හිමිකරු අමතන්න',
     badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
     spam: '⚠️ [SPAM] Detected ⚠️\n\nThe emergency security system was activated.\n\nPowered By: *ʀᴇᴅ-ᴅʀᴀɢᴏɴ*',
-    caption: 'Generated by: ◉ *ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ʙᴏᴛ*'
+    caption: 'Generated by: ◉ *ᴍʀ-ᴀʀᴏꜱʜᴀ-ʙᴏᴛ*'
 } // END \\
     global.limitawal = {
     premium: "Infinity",
